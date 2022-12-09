@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
+  title: "Rochelle Roberts",
   logo_name: "AshutoshHathidara",
   nickname: "layman_brother",
   subTitle:
