@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Rochelle's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Rochelle Roberts' Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -20,8 +20,8 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Rochelle Roberts",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  logo_name: "RochelleRoberts",
+  nickname: "rochellev",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
